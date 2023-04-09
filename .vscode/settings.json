@@ -1,0 +1,8 @@
+{
+  "jupyter.kernels.filter": [
+    {
+      "path": "c:\\Users\\dylan\\AppData\\Roaming\\jupyter\\kernels\\pytorch_dnn\\kernel.json",
+      "type": "jupyterKernelspec"
+    }
+  ]
+}
